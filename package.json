@@ -1,0 +1,19 @@
+{
+  "name": "protocol",
+  "version": "0.0.1",
+  "description": "A JavaScript implementation of the https://pl.g7kk.com/ace protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/placebot-project/protocol.git"
+  },
+  "author": "thatretrodev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/placebot-project/protocol/issues"
+  },
+  "homepage": "https://github.com/placebot-project/protocol#readme"
+}
