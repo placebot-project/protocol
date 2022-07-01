@@ -1,5 +1,5 @@
 {
-  "name": "protocol",
+  "name": "@placebot/protocol",
   "version": "0.0.1",
   "description": "A JavaScript implementation of the https://pl.g7kk.com/ace protocol",
   "main": "index.js",
